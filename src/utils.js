@@ -1,5 +1,5 @@
 /**
- * Генерирует уникальный ID
+ * Генерирует уникальный ID 
  * @returns {string} 
  */ 
 export function generateId() {

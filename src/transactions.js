@@ -20,4 +20,4 @@ export function removeTransaction(id) {
  */ 
 export function calculateTotal() {
     return transactions.reduce((sum, t) => sum + t.amount, 0);
-}
+} 
